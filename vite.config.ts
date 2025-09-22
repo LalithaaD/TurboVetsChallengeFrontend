@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 3001,
-    host: true,
+    host: '0.0.0.0', // This ensures consistent host across localhost and network access
     strictPort: true,
     proxy: {
       '/api': {
