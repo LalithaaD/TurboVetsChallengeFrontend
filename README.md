@@ -165,13 +165,6 @@ The dashboard is built with a mobile-first approach:
 - **Tablet (768px - 1024px)**: Two-column task board
 - **Desktop (> 1024px)**: Three-column task board with full sidebar
 
-## Browser Support
-
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
-
 
 ## License
 
